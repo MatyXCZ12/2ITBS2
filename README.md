@@ -18,14 +18,9 @@
 			<tr>
 				<td>BoB</td>
 			</tr>
-			<tr>
-<<<<<<< HEAD
-				<td>Nikolas</td>
-				<td>Nedbal</td>
-=======
+			<tr>	
 				<td>Tomáš</td>
 				<td>Zahradník</td>
->>>>>>> bacd75ec639ca0c0fcfae12e234fc06aae32f718
 			</tr>
 			<tr>
 				<td>Dominik</td>
@@ -35,6 +30,10 @@
 				<td>Adam</td>
 				<td>Stiburek</td>
 			<tr>
+			<tr>
+				<td>Nikolas</td>
+				<td>Nedbal</td>
+			</tr>
 		</table>
 	</body>
 </html>
