@@ -20,6 +20,10 @@
 				<td>Tomáš</td>
 				<td>Zahradník</td>
 			</tr>
+			<tr>
+				<td>Dominik</td>
+				<td>Vinš</td>
+			</tr>
 		</table>
 	</body>
 </html>
