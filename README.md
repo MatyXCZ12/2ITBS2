@@ -34,10 +34,13 @@
                                 <td>Martin</td>
                                 <td>Nosek</td>
                         <tr>
+<<<<<<< HEAD
 			<tr>
 				<td>Libuška</td>
 				<td>Mičánová</td>
 			</tr>
+			--------------------------------------
+>>>>>>> c13b8d6764ca5e63e20efa4ff855a5f6acd3c074
 		</table>
 	</body>
 </html>
