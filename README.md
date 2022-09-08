@@ -26,6 +26,10 @@
 				<td>Dominik</td>
 				<td>Vinš</td>
 			</tr>
+			<tr>
+				<td>Tomáš</td>
+				<td>Toman</td>
+			</tr>
 		</table>
 	</body>
 </html>
