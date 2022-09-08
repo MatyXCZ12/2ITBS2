@@ -27,8 +27,8 @@
 				<td>Vinš</td>
 			</tr>
 			<tr>
-				<td>Adam</td>
-				<td>Stiburek</td>
+				<td>Smrdis</td>
+				<td>Stibo</td>
 			<tr>
 		</table>
 	</body>
