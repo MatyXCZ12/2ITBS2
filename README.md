@@ -27,6 +27,9 @@
 				<td>Vinš</td>
 			</tr>
 			<tr>
+				<td>Tomáš</td>
+				<td>Toman</td>
+			</tr>
 				<td>Adam</td>
 				<td>Stiburek</td>
 			<tr>
