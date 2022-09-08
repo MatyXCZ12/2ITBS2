@@ -17,7 +17,8 @@
 				<td>BoB</td>
 			</tr>
 			<tr>
-				<td>TZ</td>
+				<td>Tomáš</td>
+				<td>Zahradník</td>
 			</tr>
 		</table>
 	</body>
