@@ -10,13 +10,20 @@
 				<td>Miroslav</td>
 				<td>Douda</td>
 				PIKA BOO
+				<td>Martin</td>
+				<td>Zahradník</td>
 			</tr>
 			<tr>
 				<td>BoB</td>
 			</tr>
 			<tr>
+<<<<<<< HEAD
 				<td>Nikolas</td>
 				<td>Nedbal</td>
+=======
+				<td>Tomáš</td>
+				<td>Zahradník</td>
+>>>>>>> bacd75ec639ca0c0fcfae12e234fc06aae32f718
 			</tr>
 		</table>
 	</body>
