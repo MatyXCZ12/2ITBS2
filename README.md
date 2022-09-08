@@ -34,10 +34,14 @@
                                 <td>Martin</td>
                                 <td>Nosek</td>
                         <tr>
+<<<<<<< HEAD
 			<tr>
 				<td>Nikolas</td>
 				<td>Nedbal</td>
 			</tr>
+=======
+			--------------------------------------
+>>>>>>> c13b8d6764ca5e63e20efa4ff855a5f6acd3c074
 		</table>
 	</body>
 </html>
