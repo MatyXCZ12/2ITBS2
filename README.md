@@ -30,6 +30,10 @@
 				<td>Adam</td>
 				<td>Stiburek</td>
 			<tr>
+                        <tr>
+                                <td>Martin</td>
+                                <td>Nosek</td>
+                        <tr>
 			<tr>
 				<td>Nikolas</td>
 				<td>Nedbal</td>
