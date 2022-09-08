@@ -27,11 +27,16 @@
 				<td>Vinš</td>
 			</tr>
 			<tr>
+<<<<<<< HEAD
+				<td>Smrdis</td>
+				<td>Stibo</td>
+=======
 				<td>Tomáš</td>
 				<td>Toman</td>
 			</tr>
 				<td>Adam</td>
 				<td>Stiburek</td>
+>>>>>>> f349c1da48969f940b453e70b39a47245fc11580
 			<tr>
                         <tr>
                                 <td>Martin</td>
