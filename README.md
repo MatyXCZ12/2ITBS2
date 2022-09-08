@@ -10,8 +10,10 @@
 				<td>Miroslav</td>
 				<td>Douda</td>
 				PIKA BOO
+			<tr>
 				<td>Martin</td>
 				<td>Zahradník</td>
+			</tr>
 			</tr>
 			<tr>
 				<td>BoB</td>
